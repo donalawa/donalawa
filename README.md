@@ -22,7 +22,7 @@ Hi, I'm [Donacien!](), Full-Stack developer with experience in a variety of tool
 - 💬 Ask me about anything
 - 📫 How to reach me: [@Donalcien](https://twitter.com/donalcien)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Am i human ?
+- ⚡ Fun fact: I love Anime ?
 
 **Languages and Tools:**  
 
