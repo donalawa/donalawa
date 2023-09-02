@@ -46,5 +46,5 @@ Hi, I'm [Donacien!](), Full-Stack developer with experience in a variety of tool
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"></code>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=donalawa&show_icons=true&theme=radical"/>
+/*<img align="left" src="https://github-readme-stats.vercel.app/api?username=donalawa&show_icons=true&theme=radical"/>*/
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donalawa&layout=compact"/>
