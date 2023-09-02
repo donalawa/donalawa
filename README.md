@@ -8,13 +8,10 @@ Hi, I'm [Donacien!](), Full-Stack developer with experience in a variety of tool
 
 
 - 🔭 I’m currently working on Building A Mini CMS
-- 🌱 I’m currently learning Blockchain Technology
-- 👯 I’m looking to collaborate on Blockchain Open Source Projects
-- 🤔 I’m looking for help with improving my knowledge on blockchain technology
 - 💬 Ask me about anything
 - 📫 How to reach me: [@Donalcien](https://twitter.com/donalcien)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I love Anime ?
+- ⚡ Fun fact: I love Anime 
 
 **Languages and Tools:**  
 <br />
